@@ -18,3 +18,6 @@ comp1238
 * [Eric Cartman] (https://en.wikipedia.org/wiki/Eric_Cartman)
 * [German Shepherd] (https://en.wikipedia.org/wiki/German_Shepherd)
 * [George Brown] (https://www.georgebrown.ca/)
+
+# Experiments
+😀😃😂😎🙌🐟🌎
