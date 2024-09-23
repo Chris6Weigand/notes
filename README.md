@@ -13,3 +13,6 @@ comp1238
 * \* Asterik
 * ( Parenthesis, bracket
 * ) Parenthesis, bracket
+
+# Links
+* [Eric Cartman] (https://en.wikipedia.org/wiki/Eric_Cartman)
