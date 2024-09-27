@@ -21,3 +21,14 @@ comp1238
 
 # Experiments
 😀😃😂😎🙌🐟🌎
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Command-A (select all)
+- Command-X (cut)
+- Command-Q (Quit)
+
+Shortcuts I would like to start using: 
+- Command-M (minimize)
+- Command-Space (search)
+- Command-N (New window)
