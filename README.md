@@ -32,3 +32,5 @@ Shortcuts I would like to start using:
 - Command-M (minimize)
 - Command-Space (search)
 - Command-N (New window)
+
+[CLI commands] (docs/cli.md)
