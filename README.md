@@ -34,3 +34,4 @@ Shortcuts I would like to start using:
 - Command-N (New window)
 
 [CLI commands](docs/cli.md)
+Commiting is very important!
