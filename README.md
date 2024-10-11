@@ -33,5 +33,4 @@ Shortcuts I would like to start using:
 - Command-Space (search)
 - Command-N (New window)
 
-[CLI commands] (docs/cli.md)
-- Another commit to push!
+[CLI commands](docs/cli.md)
