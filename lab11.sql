@@ -39,3 +39,8 @@ WHERE due_date LIKE '2024-10%';
 SELECT min(due_date)
 FROM assignments
 WHERE status='Completed';
+
+--Screenshotted
+SELECT max(due_date), course_id, title
+FROM assignments
+WHERE status='In Progress';
